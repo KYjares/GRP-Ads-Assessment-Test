@@ -1,3 +1,9 @@
+## My submission for the assessment test
+
+Wanted to add a modal for the ToC but decided to not spend too much time on the details
+
+##
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
